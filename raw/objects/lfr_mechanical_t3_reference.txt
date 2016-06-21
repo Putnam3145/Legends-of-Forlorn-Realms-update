@@ -1,0 +1,173 @@
+A quick reference guide to the more complex research and development reactions in LFR's tech tree.  This file is provided to assist those of you who are in tier three and up, as the 
+game does not do a particularly good job of letting you know exactly how many resources are required for each reaction.
+
+For more information on the tech tree, including earier tiers, consult the lfr_mechanical_tech_tree.txt file.
+
+----
+
+Contents
+
+[B1] CRYSTAL GROWTH TANK
+[B2] ADVANCED ALCHEMY LAB
+[B3] SCIENTIFIC LIBRARY
+[B4] PROTOTYPE WORKBENCH
+
+----
+
+[B1] CRYSTAL GROWTH TANK
+
+This building is the "gateway" into tier three of the tech tree.  A few of its products are required for other tier three buildings, but it is mostly there to allow for colorful
+construction projects.
+
+
+Requirements:
+
+Three clear glass boxes.
+A building material.
+A rough rainbow diamond.  This can be acquired by a small variety of methods, which are detailed in the lfr_mechanical_tech_tree.txt file in section 4.5.
+
+
+Reactions:
+
+Grow crystals - one reaction for each color.  Consumes two worthless stones to create a colored crystalline block.  1/3 chance of also producing a clear crystal gem of the same color.
+
+
+--
+
+[B2] ADVANCED ALCHEMY LAB
+
+This is the main "research" building for tier three.  It unlocks advances, as well as performing a number of more advanced reactions in the style of the original alchemy lab.
+
+Advancements are unlocked by producing tomes in research reactions.  These tomes are preserved and used in the production of components and blueprints for the prototype workbench.  
+Tomes are bound with leather - yes, this is an "I have many leather-bound books" joke.  Tomes are divided into three types - "apprentice" tomes are the first unlocked.  "Journeyman" 
+tomes require apprentice tomes to produce, and unlock further advances.  Finally, "master" tomes require journeyman tomes to unlock, and unlock even further advancements.  Higher level 
+tomes compound on the advancements of prior levels, meaning that a master tome is also capable of being used for everything a journeyman tome can be used for, and so on.
+
+Currently (as of 0.19a), there are three "families" of tomes - those dealing with crossbow advances, and those dealing with magnetic projectiles are researched here.  The final tome, 
+on mechanical constructs, is researched at the (tier 4) mechanized defense laboratory.
+
+
+Requirements:
+
+A fireproof building material.
+Three lustrum rocks.
+Five yellow crystalline blocks.
+Five black crystalline blocks.
+Three clear glass flasks.
+Three advanced mechanisms.
+One precision tool kit.
+
+
+Reactions:
+
+**These reactions are basic "production" reactions, used for components of other tier three reactions and constructions.** 
+
+Develop sorting algorithm - takes a stack of coins, produces a sorting algorithm to unlock the scientific library (coins are not consumed).
+Make copper capacitor - takes two copper bars, produces a copper capacitor, requires the presences of an appropriate tome (which is not consumed).
+Make palladium catalytic converter - takes a palladium bar, produces a palladium catalytic converter.
+Make knockout compound - takes two lustrum rocks and three voracious maws, produces a boulder that explodes into knockout gas when heated.
+
+
+**The next reactions pertain to advancing dwarven crossbow technology.**
+
+Research potential crossbow upgrades - takes a crossbow (not consumed), a copper bayonet (made at the forge), two mechanisms, and a tanned hide.  Has an 85% chance of 
+successfully producing an apprentice's tome on crossbow advancements.  This tome is used to create blueprints for the bayonet dart launcher.
+
+Research potential bayonet crossbow upgrades - takes a bayonet crossbow (not consumed), the apprentice tome (not consumed), a neodymium bar, five advanced mechanisms, two mechanisms, two 
+mithril bars, a tanned hide, and one rough clear crystal of each color.  Has a 50% chance of successfully producing a journeyman's tome on crossbow advances.  This tome is used to 
+create blueprints for the mechanized bayonet crossbow.
+
+Research potential mechanized bayonet crossbow upgrades - takes a mechanized bayonet crossbow (not consumed), the journeyman tome (not consumed), a neodymium bar, a palladium bar, four 
+iron bars, ten advanced mechanisms, five mechanisms, and a tanned hide.  Has a 25% chance of successfully producing a master's tome on crossbow advances.  This tome is used to 
+create blueprints for the spring-loaded bayonet crossbow, which is currently the highest level crossbow advancement.
+
+
+
+**The next reactions pertain to unlocking and advancing the magnetic dart launcher, a new ranged weapon.**
+
+Reverse-engineer bioelectric capacitor - takes a bioelectric capacitor (a rare item obtained under unusual circumstances) and a tanned hide.  Always produces an apprentice's tome on 
+magnetic projectiles, and has a 30% chance of producing a brief, painful electric shock for the researcher.  This reaction is one of two ways to unlock this tome, the other, more conventional 
+reaction is discussed next.
+
+Research magnetic projectiles - takes two copper bars, three neodymium bars, an iron bar, a tanned hide, and some iron bolts.  Has a 75% chance of successfully producing an apprentice's tome 
+on magnetic projectiles, which is used to create capacitors and blueprints for the magnetic dart launcher.
+
+Research potential magnetic dart launcher upgrades - takes a magnetic dart launcher (preserved), the apprentice tome (preserved), two copper bayonets, fifteen advanced mechanisms, a tanned 
+hide, an efficient casting device, an overgrown pedestal, and a studded silver candelabra (these last two items are from the temple component foundry, see the ritual reference file for details).  
+Has a 65% chance of successfully producing a journeyman's tome on magnetic projectiles.  This tome is used to create blueprints for the bayonet dart launcher.
+
+Research potential bayonet dart launcher upgrades - takes a bayonet dart launcher (preserved), the journeyman tome (preserved), two capacitors, a woven hadrine mesh, a studded silver candelabra, 
+a palladium bar, a tanned hide, three rough amethysts, three rough emeralds, three rough sapphires, and three rough rubies.  Has a 50% chance of successfully producing a master's tome on 
+magnetic projectiles.  This tome is used to create blueprints for the advanced bayonet dart launcher, which is currently the highest level of magnetic projectile advancement.
+
+
+
+**The final reactions at the advanced alchemy lab are more advanced versions of the experiments in the alchemy lab, which can sometimes produce useful items... or disasters.**
+
+
+Conduct advanced alchemy experiment - requires a copper, iron, gold, silver, and cobalt bar.  Produces any number of oddities, including metals, rare materials, trinkets, tools, and possible 
+experimental disasters.  This reaction can be performed with or without a palladium catalytic converter.  Using one of these reduces the probability of disasters and increases the odds of 
+success a bit, but has a 35% chance to destroy the catalytic converter.
+
+Conduct advanced transmutation experiment - requires three seeds, a copper bar, and a lustrum rock.  Has a high chance of producing a small assortment of plants with each reaction, many of which 
+are very difficult to otherwise obtain.  Has a low chance to backfire, with a variety of possible consequences of different severities.
+
+
+--
+
+[B3] THE SCIENTIFIC LIBRARY
+
+The primary function of this building is to produce blueprints using the tomes created from advanced alchemical research.  Tomes created from mechanical construct research (in tier 4) can also 
+be brought here to create construction schematics.
+
+
+Requirements:
+ 
+One sorting algorithm.
+Five cabinets. 
+A table.
+A chair.
+
+
+Reactions:
+
+Document construction procedures - no reagent, can produce the unlock slabs for all tier two tech tree workshops.  This is a safeguard - in case you got to tier three without picking up 
+all of the potential advances from tier two, you can get anything that you missed here.
+
+Transcribe blueprints - These reactions create blueprints for new weapon designs using the tomes from advanced alchemical research (these are not consumed).  These blueprints are used in the 
+production of weapons at the prototype workbench.  The reason for this intermediary step of transcribing blueprints is to prevent the prototype workbench and advanced alchemy lab from having to 
+compete with each other constantly for usage of the same tomes.
+
+Transcribe schematics - These reactions create schematics for the more advanced mechanical constructs at the mechanized defense laboratory (tier 4) using tomes from mechanized defense lab 
+research (these tomes are, like in the blueprint reactions, not consumed).
+
+
+--
+
+[B4] THE PROTOTYPE WORKBENCH
+
+This workshop produces weapons from the blueprints created from tomes at the scientific library.  It brings together components of these weapons for final assembly.  The prototype workbench 
+is also the production center for magnetic darts.
+
+
+Requirements:
+
+A building material.
+A table.
+A chair.
+A precision tool kit.
+Three advanced mechanisms.
+Four red crystalline blocks.
+
+
+Reactions:
+
+Magnetic darts - made from two bars of iron, steel, damascus steel, cobalt, or mithril.  Voidshard and tungsten darts are made with one bar and a bar of iron.  Stack of 60.
+
+Attach bayonet to crossbow - requires appropriate blueprint, creates a bayonet crossbow from a crossbow and a bayonet, using the material of the specified bayonet.
+Fabricate mechanized bayonet crossbow - requires bayonet crossbow, two advanced mechanisms, and appropriate blueprint.  Creates a mechanized bayonet crossbow.
+Fabricate pring-loaded bayonet crossbow - requires mechanized bayonet crossbow, appropriate blueprint, and an iron bar.  Creates a spring-loaded bayonet crossbow.
+
+Fabricate magnetic dart launcher - requires appropriate blueprint, a copper bar, a neodymium bar, and two copper capacitors.  Creates a magnetic dart launcher.
+Attach bayonet to magnetic dart launcher - requires appropriate blueprint, bayonet, and magnetic dart launcher.  Creates a bayonet dart launcher, using the material of the chosen bayonet.
+Attach extra capacitors to bayonet dart launcher - requires a bayonet dart launcher, appropriate blueprint, and two copper capacitors.  Creates an advanced bayonet dart launcher. 

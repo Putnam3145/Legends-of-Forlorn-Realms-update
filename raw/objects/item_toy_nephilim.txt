@@ -1,0 +1,18 @@
+item_toy_nephilim
+
+[OBJECT:ITEM]
+
+[ITEM_TOY:ITEM_TOY_TIARA]
+[NAME:tiara:tiaras]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_SPRING]
+[NAME:spring:springs]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_ANGELIC_DOLL]
+[NAME:angelic doll:angelic dolls]
+
+[ITEM_TOY:ITEM_TOY_HOLY_CODEX]
+[NAME:holy codex:holy codices]
+[HARD_MAT]

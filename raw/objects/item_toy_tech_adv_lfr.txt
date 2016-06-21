@@ -1,0 +1,7 @@
+item_toy_tech_adv_lfr
+
+[OBJECT:ITEM]
+
+[ITEM_TOY:ITEM_TOY_PRECISION_TOOL_LFR] used for advanced mechanics lab
+[NAME:precision tool kit:precision tool kits] 
+[HARD_MAT]

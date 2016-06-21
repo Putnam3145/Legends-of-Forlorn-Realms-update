@@ -1,0 +1,44 @@
+item_toy_special
+
+[OBJECT:ITEM]
+
+[ITEM_TOY:ITEM_TOY_CLOCKWORK_PENDANT]
+[NAME:clockwork pendant:clockwork pendants] dropped by damascus sentinels
+[HARD_MAT]
+SELECT_MATERIAL:ALL
+	MULTIPLY_VALUE:5
+
+[ITEM_TOY:ITEM_TOY_CLOCKWORK_CORE]
+[NAME:energy flux modulus:energy flux moduli] dropped by damascus arbiters
+[HARD_MAT]
+SELECT_MATERIAL:ALL
+	MULTIPLY_VALUE:10
+
+
+[ITEM_TOY:ITEM_TOY_ETHER]
+[NAME:sphere:spheres] produced, rarely, in alchemy
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_EFFIGY_INCUBUS_LFR]
+[NAME:statuette of an incubus:statuettes of incubi]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_DIPLOMA_LFR]
+[NAME:slab of accreditation:slabs of accreditation]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_WISP_HEART]
+[NAME:will o' wisp heart:will o' wisp hearts]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_ETHER_TWO]
+[NAME:sphere (processed):spheres (processed)] special use
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_TRAIN]
+[NAME:toy train:toy trains]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_NIRVANA]
+[NAME:heart-shaped box:heart-shaped boxes]
+[HARD_MAT]

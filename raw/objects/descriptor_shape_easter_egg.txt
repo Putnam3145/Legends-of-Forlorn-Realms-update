@@ -1,0 +1,25 @@
+descriptor_shape_easter_egg
+
+[OBJECT:DESCRIPTOR_SHAPE]
+
+
+[SHAPE:NYAN_LFR]
+	[NAME:nyan cat:nyan cats]
+	[TILE:'*']
+
+[SHAPE:EASTER_EGG_LFR]
+	[NAME:easter egg:easter eggs]
+	[TILE:'o']
+
+
+[SHAPE:WEEDAULA_LFR]
+	[NAME:weedaula:weedaulas]
+	[ADJ:sacred]
+	[ADJ:Inglip's]
+	[TILE:'w']
+
+[SHAPE:KERBAL_LFR]
+	[NAME:kerbal:kerbals]
+	[ADJ:spacefaring]
+	[ADJ:confused-looking]
+	[TILE:'k']

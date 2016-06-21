@@ -1,0 +1,21 @@
+item_toy_void
+
+[OBJECT:ITEM]
+
+[ITEM_TOY:ITEM_TOY_CURIOUS_FIGURE]
+[NAME:figurine:figurines]
+ADJECTIVE:perplexing
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_TWISTED_KNIFE]
+[NAME:twisted knife:twisted knives]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_EFFIGY]
+[NAME:animated miniature:animated miniature]
+ADJECTIVE:curious
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_CLOCK]
+[NAME:clock:clocks]
+[HARD_MAT]

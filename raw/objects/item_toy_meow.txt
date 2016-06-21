@@ -1,0 +1,16 @@
+item_toy_meow
+
+[OBJECT:ITEM]
+
+[ITEM_TOY:ITEM_TOY_BALL]
+[NAME:toy ball:toy balls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_MOUSE]
+[NAME:toy mouse:toy mice]
+PREFSTRING:simultaneous portrayal of cuteness and death
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_SCRATCHING_POST]
+[NAME:scratching post:scratching posts]
+[HARD_MAT]

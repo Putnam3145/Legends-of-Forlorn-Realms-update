@@ -1,0 +1,16 @@
+item_instrument_nephilim
+
+[OBJECT:ITEM]
+
+[ITEM_INSTRUMENT:ITEM_INSTRUMENT_ANGELIC_HARP_LFR]
+[NAME:angelic harp:angelic harps]
+[HARD_MAT]
+
+[ITEM_INSTRUMENT:ITEM_INSTRUMENT_TRUMPET_LFR]
+[NAME:long trumpet:long trumpets]
+[HARD_MAT]
+
+[ITEM_INSTRUMENT:ITEM_INSTRUMENT_BELL_LFR]
+[NAME:bell:bells]
+PREFSTRING:beautiful sounds
+[HARD_MAT]

@@ -1,0 +1,170 @@
+descriptor_shape_narhiril
+
+[OBJECT:DESCRIPTOR_SHAPE]
+
+[SHAPE:GALAXY_LFR]
+	[NAME:galaxy:galaxies]
+	[ADJ:spiral]
+	[ADJ:barred spiral]
+	[ADJ:elliptical]
+	[ADJ:irregular]
+	[TILE:'@']
+
+[SHAPE:COMET_LFR]
+	[NAME:comet:comets]
+	[ADJ:brilliant]
+	[ADJ:twin-tailed] SIGMAR!!!
+	[TILE:'~']
+
+[SHAPE:MOON_LFR]
+	[NAME:moon:moons] this is an expanded version of the stock "moon" descriptor (I didn't want to mess with a default file).  It shouldn't conflict.
+	[WORD:MOON]
+	[ADJ:full]
+	[ADJ:crescent]
+	[ADJ:gibbous]
+	[ADJ:shrouded]
+	[ADJ:half]
+	[ADJ:falling] majora's mask lol
+	[ADJ:eclipsing]
+	[TILE:'c']
+
+[SHAPE:PLANET_LFR]
+	[NAME:planet:planets]
+	[WORD:PLANET]
+	[ADJ:earth-like] earth lol
+	[ADJ:desert] kharak, pre-genocide
+	[ADJ:icy] hoth
+	[ADJ:volcanic] venus
+	[ADJ:ringed] saturn
+	[ADJ:shattered] syndicate
+	[ADJ:lush] vanguard iii
+	[ADJ:watery] kamino
+	[ADJ:ringed] saturn
+	[ADJ:barren] mercury
+	[ADJ:gaseous] neptune
+	[ADJ:superheated] bellerophon (51 peg b)
+	[ADJ:dwarf] pluto
+	[ADJ:giant] jupiter
+	[ADJ:fully developed] couruscant
+	[TILE:'o']
+
+[SHAPE:ARMOK_LFR]
+	[NAME:image of Armok:images of Armok]
+	[ADJ:battle]
+	[ADJ:blood-covered]
+	[ADJ:furious]
+	[TILE:'*']
+
+[SHAPE:VISTHEL_LFR]
+	[NAME:image of Visthel:images of Visthel]
+	[ADJ:eight-winged]
+	[ADJ:radiant]
+	[ADJ:merciful]
+	[ADJ:selfless]
+	[TILE:'*']
+
+[SHAPE:KOGUT_LFR]
+	[NAME:image of Kogut:images of Kogut]
+	[ADJ:drunken]
+	[ADJ:long-bearded]
+	[ADJ:artistically embellished]
+	[TILE:'*']
+	
+[SHAPE:VORUK_LFR]
+	[NAME:image of Voruk:images of Voruk]
+	[ADJ:lavish]
+	[ADJ:throne-sitting]
+	[ADJ:heavily adorned]
+	[TILE:'*']
+
+[SHAPE:PEL_LFR]
+	[NAME:image of Pel:images of Pel]
+	[ADJ:star-cloaked]
+	[ADJ:black-haired]
+	[ADJ:lute-playing]
+	[ADJ:harp-playing]
+	[ADJ:partially obscured]
+	[TILE:'*']
+
+[SHAPE:GISTHAL_LFR]
+	[NAME:image of Gisthal:images of Gisthal]
+	[ADJ:naked]
+	[ADJ:blinding]
+	[ADJ:luminous]
+	[TILE:'*']
+
+[SHAPE:PHARIS_LFR]
+	[NAME:symbol of Pharis:symbols of Pharis]
+	[ADJ:ornate]
+	[ADJ:simple]
+	[ADJ:trimmed]
+	[ADJ:fractal]
+	[TILE:'*']
+
+[SHAPE:ZALKOR_LFR]
+	[NAME:image of Zalkor:images of Zalkor]
+	[ADJ:blazing]
+	[ADJ:infernal]
+	[ADJ:blackened]
+	[TILE:'*']
+
+[SHAPE:TEMANAT_LFR]
+	[NAME:image of Temanat:images of Temanat]
+	[ADJ:water-cloaked]
+	[ADJ:wavy]
+	[ADJ:abstract]
+	[TILE:'*']
+
+[SHAPE:KEROX_LEMOX_LFR]
+	[NAME:image of Kerox and Lemox:images of Kerox and Lemox]
+	[ADJ:intertwined]
+	[ADJ:abstract]
+	[TILE:'*']
+
+[SHAPE:KEROX_LFR]
+	[NAME:image of Kerox:images of Kerox]
+	[ADJ:earthy]
+	[ADJ:muddy]
+	[ADJ:modest]
+	[ADJ:sickle-wielding]
+	[TILE:'*']
+
+[SHAPE:LEMOX_LFR]
+	[NAME:image of Lemox:images of Lemox]
+	[ADJ:aerial]
+	[ADJ:nude]
+	[ADJ:windswept]
+	[ADJ:cane-wielding]
+	[TILE:'*']
+
+[SHAPE:BARTOTH_LFR]
+	[NAME:image of Bartoth:images of Bartoth]
+	[ADJ:lonely]
+	[ADJ:storm-cloaked]
+	[ADJ:hammer-wielding]
+	[TILE:'*']
+
+[SHAPE:AIRSHIP_LFR]
+	[NAME:airship:airships]
+	[ADJ:soaring]
+	[ADJ:magnificent]
+	[ADJ:majestic]
+	[TILE:'a']
+
+[SHAPE:VORTEX_LFR]
+	[NAME:vortex:vortices]
+	[ADJ:swirling]
+	[ADJ:devouring]
+	[ADJ:spiraling]
+	[ADJ:clockwise]
+	[ADJ:counter-clockwise]
+	[TILE:'@']
+
+[SHAPE:LABYRINTH_LFR]
+	[NAME:labyrinth:labyrinths]
+	[ADJ:simple]
+	[ADJ:complex]
+	[ADJ:traditional]
+	[ADJ:winding]
+	[ADJ:intricate]
+	[TILE:'#']

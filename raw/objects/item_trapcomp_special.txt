@@ -1,0 +1,12 @@
+item_trapcomp_special
+
+[OBJECT:ITEM]
+
+[ITEM_TRAPCOMP:ITEM_TRAPCOMP_TITANBLADE]
+[NAME:saw blade:saw blades]
+[ADJECTIVE:titanic]
+[SIZE:5000]
+[HITS:2]
+[MATERIAL_SIZE:80]
+[METAL]
+[ATTACK:EDGE:1000000:100000:cut through:cuts through:NO_SUB:2000]
