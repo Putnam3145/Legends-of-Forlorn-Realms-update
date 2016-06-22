@@ -10,3 +10,4 @@ item_trapcomp_special
 [MATERIAL_SIZE:80]
 [METAL]
 [ATTACK:EDGE:1000000:100000:cut through:cuts through:NO_SUB:2000]
+	[ATTACK_PREPARE_AND_RECOVER:5:5]
