@@ -1,7 +1,5 @@
 item_instrument_void
 
-[OBJECT:ITEM]
-
 [ITEM_INSTRUMENT:ITEM_INSTRUMENT_VOID_HORN]
 [NAME:ominous horn:ominous horns]
 [HARD_MAT]
