@@ -3,6 +3,7 @@ creature_narhiril
 [OBJECT:CREATURE]
 
 [CREATURE:KITTY_KITTY_MEOW_MEOW]
+	[OUTSIDER_CONTROLLABLE]
 	[DESCRIPTION:a small humanoid creature with cat-like features and an affinity for yarn and catnip.]
 	[NAME:meowkin:meowkin:meowkin]
 	[CHILD:10][GENERAL_CHILD_NAME:kitten:kittens]

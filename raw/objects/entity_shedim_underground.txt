@@ -87,3 +87,4 @@ entity_shedim_underground
 		[COLOR:7:0:1]
 		[DUTY_BOUND]
 	[VARIABLE_POSITIONS:ALL]
+	[SITE_VARIABLE_POSITIONS:ALL]
