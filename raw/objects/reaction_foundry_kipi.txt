@@ -1,6 +1,6 @@
 reaction_foundry_kipi
 
-[OBJECT:REACTION]
+PUTNAM: This whole file was obsoleted by 0.42.06's (d)etails menu; besides that, these reactions caused all listed stone to become economic, which is problematic.
 
 [REACTION:SANDSTONE_BLOCK]
 	[NAME:make sandstone block]
