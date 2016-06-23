@@ -14,7 +14,7 @@ language_VOID
 	[T_WORD:ANGEL:marutai]
 	[T_WORD:ANGER:vilens]
 	[T_WORD:ANIMAL:ioti]
-	[T_WORD:ANUS:gzar]
+
 	[T_WORD:APE:gzarn]
 	[T_WORD:APPLE:cuzim]
 	[T_WORD:ARCH:lokas]
@@ -52,7 +52,7 @@ language_VOID
 	[T_WORD:BILE:vort]
 	[T_WORD:BIN:vilz]
 	[T_WORD:BIRD:iona]
-	[T_WORD:BITCH:golor]
+
 	[T_WORD:BLACK:goltio]
 	[T_WORD:BLADE:tzarat]
 	[T_WORD:BLAZE:krien]
@@ -185,7 +185,7 @@ language_VOID
 	[T_WORD:CROSS_ADJ:xamad]
 	[T_WORD:CROW:kakan]
 	[T_WORD:CROWN:virix]
-	[T_WORD:CROTCH:purn]
+
 	[T_WORD:CRUCIFY:metaxiti]
 	[T_WORD:CRUMBLE:urti]
 	[T_WORD:CRUSH:nu]
@@ -434,7 +434,7 @@ language_VOID
 	[T_WORD:ILL:pyrs]
 	[T_WORD:IMPURE:cysto]
 	[T_WORD:INCENSE:malig]
-	[T_WORD:INCEST:gerig]
+
 	[T_WORD:INCH:ge]
 	[T_WORD:INK:wa]
 	[T_WORD:INN:kret]
@@ -583,8 +583,8 @@ language_VOID
 	[T_WORD:NOOSE:ivernis]
 	[T_WORD:NORTH:kel]
 	[T_WORD:NOSE:paster]
-	[T_WORD:NUDE:bech]
-	[T_WORD:NUDITY:bechril]
+
+
 	[T_WORD:NULL:azart]
 	[T_WORD:NUMBER:gertri]
 	[T_WORD:NURTURE:nura]
@@ -613,7 +613,7 @@ language_VOID
 	[T_WORD:PAINT:intir]
 	[T_WORD:PALE:ber]
 	[T_WORD:PALM:likesa]
-	[T_WORD:PANDER:tzac]
+
 	[T_WORD:PANT:porti]
 	[T_WORD:PANTHER:golor]
 	[T_WORD:PANTS:brec]
@@ -623,7 +623,7 @@ language_VOID
 	[T_WORD:PEPPER:ewask]
 	[T_WORD:PHLEGM:obek]
 	[T_WORD:PIG:aquat]
-	[T_WORD:PISS:iarke]
+
 	[T_WORD:PIT:gritz]
 	[T_WORD:PITCH:tzili]
 	[T_WORD:PLAGUE:awtch]
@@ -671,7 +671,7 @@ language_VOID
 	[T_WORD:RAMPAGE:ikel]
 	[T_WORD:RANDOM:loreth]
 	[T_WORD:RANSACK:vetzi]
-	[T_WORD:RAPE:butsei]
+
 	[T_WORD:RAPTOR:hiriti]
 	[T_WORD:RAT:golor]
 	[T_WORD:RAUNCH:ineb]
@@ -787,14 +787,14 @@ language_VOID
 	[T_WORD:SLIVER:opel]
 	[T_WORD:SLOTH:iven]
 	[T_WORD:SLUG:pix]
-	[T_WORD:SLUT:buquet] SLUTBUCKET!
+
 	[T_WORD:SMASH:brir]
 	[T_WORD:SMILE:medo]
 	[T_WORD:SMITH:qualtizan]
 	[T_WORD:SMOKE:feruni]
 	[T_WORD:SMOOTH:xeritax]
 	[T_WORD:SMOULDER:tzepo]
-	[T_WORD:SMUT:ietz]
+
 	[T_WORD:SNACK:vetch]
 	[T_WORD:SNAKE:lefgar]
 	[T_WORD:SNEER:patzer]
@@ -812,7 +812,7 @@ language_VOID
 	[T_WORD:SPAWN:xeritil]
 	[T_WORD:SPEAR:ovex]
 	[T_WORD:SPELL:nexas]
-	[T_WORD:SPEW:muxec]
+
 	[T_WORD:SPICE:amvi]
 	[T_WORD:SPIDER:busexi]
 	[T_WORD:SPIDERY:busexial]
@@ -965,7 +965,7 @@ language_VOID
 	[T_WORD:VIPER:indeux]
 	[T_WORD:VOICE:busetia]
 	[T_WORD:VOID:tzalith]
-	[T_WORD:VOID_VERB:terico]
+
 	[T_WORD:VOLCANO:govela]
 	[T_WORD:VOMIT:elken]
 	[T_WORD:VULTURE:grestia]
@@ -994,7 +994,7 @@ language_VOID
 	[T_WORD:WHISKY:obiea]
 	[T_WORD:WHISPER:odrei]
 	[T_WORD:WHITE:podetax]
-	[T_WORD:WHORE:hecirit]
+
 	[T_WORD:WICKED:golor]
 	[T_WORD:WILD:ivebro]
 	[T_WORD:WILL:ov]
@@ -1305,7 +1305,7 @@ language_VOID
 	[T_WORD:INCONSIDERATE:inredriax]
 	[T_WORD:INCONVENIENT:tumugz]
 	[T_WORD:CONTINENT:oderit]
-	[T_WORD:INCONTINENT:lorodiox] Why is there a word for this?
+
 	[T_WORD:FLIGHT:mudal]
 	[T_WORD:FLIGHTY:idel]
 	[T_WORD:GILD:odeastar]
@@ -1362,7 +1362,7 @@ language_VOID
 	[T_WORD:PEAR:malal]
 	[T_WORD:THIMBLE:mertzial]
 	[T_WORD:BUNNY:golor] it's just a l'il bunny rabbit...
-	[T_WORD:BUTTOCK:astias]
+
 	[T_WORD:ROPE:nuex]
 	[T_WORD:STRING:igriol]
 	[T_WORD:WIRE:mugzit]

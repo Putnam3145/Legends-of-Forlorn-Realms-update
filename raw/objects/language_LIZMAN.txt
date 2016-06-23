@@ -39,7 +39,7 @@ language_LIZMAN.txt
 	[T_WORD:ANGUISH:keng]
 	[T_WORD:ANIMAL:zea]
 	[T_WORD:ANKLE:guratu]
-	[T_WORD:ANUS:piki]
+
 	[T_WORD:ANVIL:isu]
 	[T_WORD:APE:etxi]
 	[T_WORD:APEX:elleki]
@@ -122,7 +122,7 @@ language_LIZMAN.txt
 	[T_WORD:BIN:idatu]
 	[T_WORD:BIND:ohaiz]
 	[T_WORD:BIRD:gerra]
-	[T_WORD:BITCH:jengun]
+
 	[T_WORD:BITE:kuindu]
 	[T_WORD:BITTER:hir]
 	[T_WORD:BLACK:kitu]
@@ -227,7 +227,7 @@ language_LIZMAN.txt
 	[T_WORD:BUTCHER:diro]
 	[T_WORD:BUTTER:osatu]
 	[T_WORD:BUTTERFLY:utatu]
-	[T_WORD:BUTTOCK:aldun]
+
 	[T_WORD:BUTTON:pre]
 	[T_WORD:BUZZARD:note]
 	[T_WORD:CACKLE:beraio]
@@ -404,7 +404,7 @@ language_LIZMAN.txt
 	[T_WORD:CROSS_ADJ:zora]
 	[T_WORD:CROSS_NOUN:saguts]
 	[T_WORD:CROSS_VERB:iroi]
-	[T_WORD:CROTCH:aztar]
+
 	[T_WORD:CROW:gosini]
 	[T_WORD:CROWD:triz]
 	[T_WORD:CROWN:darkatu]
@@ -937,12 +937,12 @@ language_LIZMAN.txt
 	[T_WORD:IMPUNITY:gorra]
 	[T_WORD:IMPURE:artu]
 	[T_WORD:INCENSE:proom]
-	[T_WORD:INCEST:okain]
+
 	[T_WORD:INCH:itz]
 	[T_WORD:INCIDENTAL:patultu]
 	[T_WORD:INCINERATE:kuru]
 	[T_WORD:INCONSIDERATE:adain]
-	[T_WORD:INCONTINENT:thoste]
+
 	[T_WORD:INCONVENIENT:apin]
 	[T_WORD:INDIGNATION:rolil]
 	[T_WORD:INFALLIBLE:ijiree]
@@ -1227,8 +1227,8 @@ language_LIZMAN.txt
 	[T_WORD:NOSE:jiru]
 	[T_WORD:NOTCH:aketa]
 	[T_WORD:NOURISH:olapur]
-	[T_WORD:NUDE:egi]
-	[T_WORD:NUDITY:botsi]
+
+
 	[T_WORD:NULL:ino]
 	[T_WORD:NUMBER:batu]
 	[T_WORD:NURTURE:josater]
@@ -1278,7 +1278,7 @@ language_LIZMAN.txt
 	[T_WORD:PALE:borgi]
 	[T_WORD:PALISADE:akal]
 	[T_WORD:PALM:jirutoi]
-	[T_WORD:PANDER:fortxi]
+
 	[T_WORD:PANT:worri]
 	[T_WORD:PANTHER:zehaia]
 	[T_WORD:PANTOMIME:dutsa]
@@ -1320,7 +1320,7 @@ language_LIZMAN.txt
 	[T_WORD:PIMPLE:jaistu]
 	[T_WORD:PINE:pel]
 	[T_WORD:PINNACLE:xuhari]
-	[T_WORD:PISS:thendan]
+
 	[T_WORD:PIT:idu]
 	[T_WORD:PITCH:enda]
 	[T_WORD:PLAGUE:emari]
@@ -1418,7 +1418,7 @@ language_LIZMAN.txt
 	[T_WORD:RANDOM:otsugi]
 	[T_WORD:RANK:afaldu]
 	[T_WORD:RANSACK:hire]
-	[T_WORD:RAPE:epelto]
+
 	[T_WORD:RAPID:adur]
 	[T_WORD:RAPTOR:ser]
 	[T_WORD:RARE:pura]
@@ -1647,7 +1647,7 @@ language_LIZMAN.txt
 	[T_WORD:SLOW:ple]
 	[T_WORD:SLUDGE:enpozi]
 	[T_WORD:SLUG:misorra]
-	[T_WORD:SLUT:jolio]
+
 	[T_WORD:SLY:lela]
 	[T_WORD:SMALL:gonbi]
 	[T_WORD:SMASH:landu]
@@ -1657,7 +1657,7 @@ language_LIZMAN.txt
 	[T_WORD:SMOKE:aditsi]
 	[T_WORD:SMOOTH:janto]
 	[T_WORD:SMOULDER:nekiru]
-	[T_WORD:SMUT:zulil]
+
 	[T_WORD:SNACK:xuratu]
 	[T_WORD:SNAIL:papail]
 	[T_WORD:SNAKE:forki]
@@ -1696,7 +1696,7 @@ language_LIZMAN.txt
 	[T_WORD:SPECK:eutsun]
 	[T_WORD:SPEECHLESS:ontzere]
 	[T_WORD:SPELL:eze]
-	[T_WORD:SPEW:ijitxal]
+
 	[T_WORD:SPICE:zaldut]
 	[T_WORD:SPIDER:ontsu]
 	[T_WORD:SPIDERY:utarts]
@@ -2005,7 +2005,7 @@ language_LIZMAN.txt
 	[T_WORD:VISIONARY:per]
 	[T_WORD:VOICE:ekar]
 	[T_WORD:VOID:sile]
-	[T_WORD:VOID_VERB:afante]
+
 	[T_WORD:VOLCANO:zita]
 	[T_WORD:VOMIT:ama]
 	[T_WORD:VULGAR:ustu]
@@ -2060,7 +2060,7 @@ language_LIZMAN.txt
 	[T_WORD:WHISKY:okitu]
 	[T_WORD:WHISPER:zertu]
 	[T_WORD:WHITE:maizez]
-	[T_WORD:WHORE:zurru]
+
 	[T_WORD:WICKED:gai]
 	[T_WORD:WIELD:otobale]
 	[T_WORD:WILD:esar]

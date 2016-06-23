@@ -14,7 +14,7 @@ language_LATIN
 	[T_WORD:ANGEL:angelus]
 	[T_WORD:ANGER:ira]
 	[T_WORD:ANIMAL:bestia]
-	[T_WORD:ANUS:culus]
+
 	[T_WORD:APE:simia]
 	[T_WORD:APPLE:pomum]
 	[T_WORD:ARCH:arcus]
@@ -52,7 +52,7 @@ language_LATIN
 	[T_WORD:BILE:bilis]
 	[T_WORD:BIN:lacus]
 	[T_WORD:BIRD:avis]
-	[T_WORD:BITCH:canicula]
+
 	[T_WORD:BLACK:niger]
 	[T_WORD:BLADE:cuspis]
 	[T_WORD:BLAZE:flamma]
@@ -185,7 +185,7 @@ language_LATIN
 	[T_WORD:CROSS_ADJ:conmotus]
 	[T_WORD:CROW:cornix]
 	[T_WORD:CROWN:corona]
-	[T_WORD:CROTCH:bifurcum]
+
 	[T_WORD:CRUCIFY:crucifigo]
 	[T_WORD:CRUMBLE:comminuo]
 	[T_WORD:CRUSH:contero]
@@ -434,7 +434,7 @@ language_LATIN
 	[T_WORD:ILL:aeger]
 	[T_WORD:IMPURE:adulter]
 	[T_WORD:INCENSE:incendo]
-	[T_WORD:INCEST:incestus]
+
 	[T_WORD:INCH:digitus]
 	[T_WORD:INK:atramentum]
 	[T_WORD:INN:taberna]
@@ -582,8 +582,8 @@ language_LATIN
 	[T_WORD:NOOSE:laqueus]
 	[T_WORD:NORTH:septentrio]
 	[T_WORD:NOSE:nasus]
-	[T_WORD:NUDE:nudus]
-	[T_WORD:NUDITY:nuditas]
+
+
 	[T_WORD:NULL:casso]
 	[T_WORD:NUMBER:numerus]
 	[T_WORD:NURTURE:almitas]
@@ -612,7 +612,7 @@ language_LATIN
 	[T_WORD:PAINT:pingo]
 	[T_WORD:PALE:albus]
 	[T_WORD:PALM:palma]
-	[T_WORD:PANDER:indulgeo]
+
 	[T_WORD:PANT:anhelo]
 	[T_WORD:PANTHER:pardus]
 	[T_WORD:PANTS:braca]
@@ -622,7 +622,7 @@ language_LATIN
 	[T_WORD:PEPPER:piper]
 	[T_WORD:PHLEGM:pituita]
 	[T_WORD:PIG:porcus]
-	[T_WORD:PISS:meio]
+
 	[T_WORD:PIT:cavum]
 	[T_WORD:PITCH:pono]
 	[T_WORD:PLAGUE:pestis]
@@ -670,7 +670,7 @@ language_LATIN
 	[T_WORD:RAMPAGE:ferocio]
 	[T_WORD:RANDOM:caecus]
 	[T_WORD:RANSACK:furor]
-	[T_WORD:RAPE:constupro]
+
 	[T_WORD:RAPTOR:dinosaurus]
 	[T_WORD:RAT:ratus]
 	[T_WORD:RAUNCH:obscaenitas]
@@ -786,14 +786,14 @@ language_LATIN
 	[T_WORD:SLIVER:stagnum]
 	[T_WORD:SLOTH:segnities]
 	[T_WORD:SLUG:limax]
-	[T_WORD:SLUT:moecha]
+
 	[T_WORD:SMASH:comminuo]
 	[T_WORD:SMILE:subrideo]
 	[T_WORD:SMITH:faber]
 	[T_WORD:SMOKE:nubes]
 	[T_WORD:SMOOTH:teres]
 	[T_WORD:SMOULDER:fervo]
-	[T_WORD:SMUT:pornographia]
+
 	[T_WORD:SNACK:prandium]
 	[T_WORD:SNAKE:serpens]
 	[T_WORD:SNEER:subsanno]
@@ -811,7 +811,7 @@ language_LATIN
 	[T_WORD:SPAWN:lact]
 	[T_WORD:SPEAR:telum]
 	[T_WORD:SPELL:devotio]
-	[T_WORD:SPEW:respuo]
+
 	[T_WORD:SPICE:condimentum]
 	[T_WORD:SPIDER:araneus]
 	[T_WORD:SPIDERY:araneus]
@@ -964,7 +964,7 @@ language_LATIN
 	[T_WORD:VIPER:vipera]
 	[T_WORD:VOICE:vox]
 	[T_WORD:VOID:inanis]
-	[T_WORD:VOID_VERB:inanis]
+
 	[T_WORD:VOLCANO:cratera]
 	[T_WORD:VOMIT:ejicio]
 	[T_WORD:VULTURE:vultur]
@@ -993,7 +993,7 @@ language_LATIN
 	[T_WORD:WHISKY:vischium]
 	[T_WORD:WHISPER:murmur]
 	[T_WORD:WHITE:albus]
-	[T_WORD:WHORE:mereo]
+
 	[T_WORD:WICKED:improbus]
 	[T_WORD:WILD:turbidus]
 	[T_WORD:WILL:voluntas]
@@ -1304,7 +1304,7 @@ language_LATIN
 	[T_WORD:INCONSIDERATE:inconsideratus]
 	[T_WORD:INCONVENIENT:incommodus]
 	[T_WORD:CONTINENT:continens]
-	[T_WORD:INCONTINENT:salax]
+
 	[T_WORD:FLIGHT:fuga]
 	[T_WORD:FLIGHTY:volaticus]
 	[T_WORD:GILD:deauro]
@@ -1361,7 +1361,7 @@ language_LATIN
 	[T_WORD:PEAR:pirum]
 	[T_WORD:THIMBLE:pollex]
 	[T_WORD:BUNNY:cuniculus]
-	[T_WORD:BUTTOCK:clunis]
+
 	[T_WORD:ROPE:copula]
 	[T_WORD:STRING:linea]
 	[T_WORD:WIRE:linea]

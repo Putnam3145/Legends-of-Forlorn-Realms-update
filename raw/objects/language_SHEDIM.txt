@@ -39,7 +39,7 @@ language_SHEDIM
 	[T_WORD:ANGUISH:khesh]
 	[T_WORD:ANIMAL:lak]
 	[T_WORD:ANKLE:mizmoeh]
-	[T_WORD:ANUS:oshayim]
+
 	[T_WORD:ANVIL:achel]
 	[T_WORD:APE:billal]
 	[T_WORD:APEX:nayyin]
@@ -122,7 +122,7 @@ language_SHEDIM
 	[T_WORD:BIN:ashafer]
 	[T_WORD:BIND:lam]
 	[T_WORD:BIRD:chem]
-	[T_WORD:BITCH:ayit]
+
 	[T_WORD:BITE:mishat]
 	[T_WORD:BITTER:barumal]
 	[T_WORD:BLACK:giba]
@@ -227,7 +227,7 @@ language_SHEDIM
 	[T_WORD:BUTCHER:rashl]
 	[T_WORD:BUTTER:nuacham]
 	[T_WORD:BUTTERFLY:bribasah]
-	[T_WORD:BUTTOCK:raar]
+
 	[T_WORD:BUTTON:mud]
 	[T_WORD:BUZZARD:kelef]
 	[T_WORD:CACKLE:hukhen]
@@ -404,7 +404,7 @@ language_SHEDIM
 	[T_WORD:CROSS_ADJ:tishen]
 	[T_WORD:CROSS_NOUN:edamal]
 	[T_WORD:CROSS_VERB:eachaam]
-	[T_WORD:CROTCH:bekah]
+
 	[T_WORD:CROW:gene]
 	[T_WORD:CROWD:shim]
 	[T_WORD:CROWN:ebaanim]
@@ -937,12 +937,12 @@ language_SHEDIM
 	[T_WORD:IMPUNITY:nanaani]
 	[T_WORD:IMPURE:geleche]
 	[T_WORD:INCENSE:beresh]
-	[T_WORD:INCEST:zabashel]
+
 	[T_WORD:INCH:enegeh]
 	[T_WORD:INCIDENTAL:braami]
 	[T_WORD:INCINERATE:ber]
 	[T_WORD:INCONSIDERATE:okhen]
-	[T_WORD:INCONTINENT:kachod]
+
 	[T_WORD:INCONVENIENT:malhhun]
 	[T_WORD:INDIGNATION:abar]
 	[T_WORD:INFALLIBLE:ethebeam]
@@ -1227,8 +1227,8 @@ language_SHEDIM
 	[T_WORD:NOSE:ethebul]
 	[T_WORD:NOTCH:arukhuut]
 	[T_WORD:NOURISH:elal]
-	[T_WORD:NUDE:eder]
-	[T_WORD:NUDITY:khechen]
+
+
 	[T_WORD:NULL:okhon]
 	[T_WORD:NUMBER:atzi]
 	[T_WORD:NURTURE:shar]
@@ -1278,7 +1278,7 @@ language_SHEDIM
 	[T_WORD:PALE:ashet]
 	[T_WORD:PALISADE:mish]
 	[T_WORD:PALM:ashen]
-	[T_WORD:PANDER:ezerei]
+
 	[T_WORD:PANT:tanach]
 	[T_WORD:PANTHER:halosh]
 	[T_WORD:PANTOMIME:kodefet]
@@ -1320,7 +1320,7 @@ language_SHEDIM
 	[T_WORD:PIMPLE:shmel]
 	[T_WORD:PINE:aleked]
 	[T_WORD:PINNACLE:rehbilti]
-	[T_WORD:PISS:here]
+
 	[T_WORD:PIT:ayayir]
 	[T_WORD:PITCH:awonah]
 	[T_WORD:PLAGUE:debeshe]
@@ -1418,7 +1418,7 @@ language_SHEDIM
 	[T_WORD:RANDOM:tefeth]
 	[T_WORD:RANK:ach]
 	[T_WORD:RANSACK:afahfah]
-	[T_WORD:RAPE:isher]
+
 	[T_WORD:RAPID:parbar]
 	[T_WORD:RAPTOR:abilchai]
 	[T_WORD:RARE:echot]
@@ -1647,7 +1647,7 @@ language_SHEDIM
 	[T_WORD:SLOW:moebul]
 	[T_WORD:SLUDGE:hereb]
 	[T_WORD:SLUG:rehshal]
-	[T_WORD:SLUT:helom]
+
 	[T_WORD:SLY:lammayim]
 	[T_WORD:SMALL:echet]
 	[T_WORD:SMASH:shmah]
@@ -1657,7 +1657,7 @@ language_SHEDIM
 	[T_WORD:SMOKE:eachelel]
 	[T_WORD:SMOOTH:ebeb]
 	[T_WORD:SMOULDER:zonaneh]
-	[T_WORD:SMUT:ohetz]
+
 	[T_WORD:SNACK:kacheh]
 	[T_WORD:SNAIL:ari]
 	[T_WORD:SNAKE:eze]
@@ -1696,7 +1696,7 @@ language_SHEDIM
 	[T_WORD:SPECK:yamidbah]
 	[T_WORD:SPEECHLESS:zahha]
 	[T_WORD:SPELL:naah]
-	[T_WORD:SPEW:mahba]
+
 	[T_WORD:SPICE:aab]
 	[T_WORD:SPIDER:atam]
 	[T_WORD:SPIDERY:dema]
@@ -2005,7 +2005,7 @@ language_SHEDIM
 	[T_WORD:VISIONARY:kolah]
 	[T_WORD:VOICE:keneshim]
 	[T_WORD:VOID:raal]
-	[T_WORD:VOID_VERB:asehesh]
+
 	[T_WORD:VOLCANO:nehb]
 	[T_WORD:VOMIT:awon]
 	[T_WORD:VULGAR:chah]
@@ -2060,7 +2060,7 @@ language_SHEDIM
 	[T_WORD:WHISKY:lakh]
 	[T_WORD:WHISPER:naan]
 	[T_WORD:WHITE:sahnua]
-	[T_WORD:WHORE:emaseh]
+
 	[T_WORD:WICKED:afah]
 	[T_WORD:WIELD:brit]
 	[T_WORD:WILD:ezenesh]

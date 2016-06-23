@@ -14,7 +14,7 @@ language_FRENCH
 	[T_WORD:ANGEL:ange]
 	[T_WORD:ANGER:colere]
 	[T_WORD:ANIMAL:animal]
-	[T_WORD:ANUS:cul]
+
 	[T_WORD:APE:singe]
 	[T_WORD:APPLE:pomme]
 	[T_WORD:ARCH:voute]
@@ -52,7 +52,7 @@ language_FRENCH
 	[T_WORD:BILE:bile]
 	[T_WORD:BIN:huche]
 	[T_WORD:BIRD:oiseaux]
-	[T_WORD:BITCH:chienne]
+
 	[T_WORD:BLACK:noir]
 	[T_WORD:BLADE:lame]
 	[T_WORD:BLAZE:incendie]
@@ -185,7 +185,7 @@ language_FRENCH
 	[T_WORD:CROSS_ADJ:fache]
 	[T_WORD:CROW:corbeau]
 	[T_WORD:CROWN:couronne]
-	[T_WORD:CROTCH:entre-jambes]
+
 	[T_WORD:CRUCIFY:crucifier]
 	[T_WORD:CRUMBLE:s'effriter]
 	[T_WORD:CRUSH:ecraser]
@@ -434,7 +434,7 @@ language_FRENCH
 	[T_WORD:ILL:malade]
 	[T_WORD:IMPURE:impur]
 	[T_WORD:INCENSE:encens]
-	[T_WORD:INCEST:inceste]
+
 	[T_WORD:INCH:pouces]
 	[T_WORD:INK:encre]
 	[T_WORD:INN:auberge]
@@ -582,8 +582,8 @@ language_FRENCH
 	[T_WORD:NOOSE:collet]
 	[T_WORD:NORTH:nord]
 	[T_WORD:NOSE:nez]
-	[T_WORD:NUDE:nu]
-	[T_WORD:NUDITY:nudite]
+
+
 	[T_WORD:NULL:nul]
 	[T_WORD:NUMBER:nombre]
 	[T_WORD:NURTURE:elever]
@@ -612,7 +612,7 @@ language_FRENCH
 	[T_WORD:PAINT:peinture]
 	[T_WORD:PALE:pale]
 	[T_WORD:PALM:de palme]
-	[T_WORD:PANDER:entremettre]
+
 	[T_WORD:PANT:haleter]
 	[T_WORD:PANTHER:panthere]
 	[T_WORD:PANTS:pantalon]
@@ -622,7 +622,7 @@ language_FRENCH
 	[T_WORD:PEPPER:poivre]
 	[T_WORD:PHLEGM:flegme]
 	[T_WORD:PIG:cochon]
-	[T_WORD:PISS:pisse]
+
 	[T_WORD:PIT:fosse]
 	[T_WORD:PITCH:ton]
 	[T_WORD:PLAGUE:peste]
@@ -670,7 +670,7 @@ language_FRENCH
 	[T_WORD:RAMPAGE:dechaînement]
 	[T_WORD:RANDOM:aleatoire]
 	[T_WORD:RANSACK:saccagent]
-	[T_WORD:RAPE:viol]
+
 	[T_WORD:RAPTOR:rapaces]
 	[T_WORD:RAT:rats]
 	[T_WORD:RAUNCH:porno]
@@ -786,14 +786,14 @@ language_FRENCH
 	[T_WORD:SLIVER:ruban]
 	[T_WORD:SLOTH:paresse]
 	[T_WORD:SLUG:limace]
-	[T_WORD:SLUT:salope]
+
 	[T_WORD:SMASH:briser]
 	[T_WORD:SMILE:sourire]
 	[T_WORD:SMITH:forgeron]
 	[T_WORD:SMOKE:fumee]
 	[T_WORD:SMOOTH:lisse]
 	[T_WORD:SMOULDER:couver]
-	[T_WORD:SMUT:charbon]
+
 	[T_WORD:SNACK:collation]
 	[T_WORD:SNAKE:serpent]
 	[T_WORD:SNEER:ricanement]
@@ -811,7 +811,7 @@ language_FRENCH
 	[T_WORD:SPAWN:frayer]
 	[T_WORD:SPEAR:lance]
 	[T_WORD:SPELL:sort]
-	[T_WORD:SPEW:cracher]
+
 	[T_WORD:SPICE:epice]
 	[T_WORD:SPIDER:araignee]
 	[T_WORD:SPIDERY:araignee]
@@ -964,7 +964,7 @@ language_FRENCH
 	[T_WORD:VIPER:vipere]
 	[T_WORD:VOICE:voix]
 	[T_WORD:VOID:vide]
-	[T_WORD:VOID_VERB:liberer]
+
 	[T_WORD:VOLCANO:volcan]
 	[T_WORD:VOMIT:vomir]
 	[T_WORD:VULTURE:vautour]
@@ -993,7 +993,7 @@ language_FRENCH
 	[T_WORD:WHISKY:whisky]
 	[T_WORD:WHISPER:murmure]
 	[T_WORD:WHITE:blanc]
-	[T_WORD:WHORE:putain]
+
 	[T_WORD:WICKED:mechants]
 	[T_WORD:WILD:sauvages]
 	[T_WORD:WILL:volonte]
@@ -1304,7 +1304,7 @@ language_FRENCH
 	[T_WORD:INCONSIDERATE:inconsidere]
 	[T_WORD:INCONVENIENT:derange]
 	[T_WORD:CONTINENT:continents]
-	[T_WORD:INCONTINENT:incontinence]
+
 	[T_WORD:FLIGHT:vol]
 	[T_WORD:FLIGHTY:volage]
 	[T_WORD:GILD:dorer]
@@ -1361,7 +1361,7 @@ language_FRENCH
 	[T_WORD:PEAR:poire]
 	[T_WORD:THIMBLE:de à coudre]
 	[T_WORD:BUNNY:lapin]
-	[T_WORD:BUTTOCK:fesse]
+
 	[T_WORD:ROPE:corde]
 	[T_WORD:STRING:chaîne]
 	[T_WORD:WIRE:fils]

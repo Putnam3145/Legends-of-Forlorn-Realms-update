@@ -39,7 +39,7 @@ language_MOROII
 	[T_WORD:ANGUISH:gapu]
 	[T_WORD:ANIMAL:imakku]
 	[T_WORD:ANKLE:khalu]
-	[T_WORD:ANUS:amtu]
+
 	[T_WORD:ANVIL:uribnu]
 	[T_WORD:APE:ebaru]
 	[T_WORD:APEX:gamishu]
@@ -122,7 +122,7 @@ language_MOROII
 	[T_WORD:BIN:zamusku]
 	[T_WORD:BIND:nutu]
 	[T_WORD:BIRD:khallu]
-	[T_WORD:BITCH:sadu]
+
 	[T_WORD:BITE:sanatu]
 	[T_WORD:BITTER:ashtu]
 	[T_WORD:BLACK:kutu]
@@ -227,7 +227,7 @@ language_MOROII
 	[T_WORD:BUTCHER:episu]
 	[T_WORD:BUTTER:hikkaru]
 	[T_WORD:BUTTERFLY:qarmu]
-	[T_WORD:BUTTOCK:qanurru]
+
 	[T_WORD:BUTTON:hal]
 	[T_WORD:BUZZARD:ebabu]
 	[T_WORD:CACKLE:ritu]
@@ -404,7 +404,7 @@ language_MOROII
 	[T_WORD:CROSS_ADJ:asutu]
 	[T_WORD:CROSS_NOUN:natibbo]
 	[T_WORD:CROSS_VERB:dimnu]
-	[T_WORD:CROTCH:mushedu]
+
 	[T_WORD:CROW:sinu]
 	[T_WORD:CROWD:umeshu]
 	[T_WORD:CROWN:bakalla]
@@ -937,12 +937,12 @@ language_MOROII
 	[T_WORD:IMPUNITY:tamaru]
 	[T_WORD:IMPURE:amanu]
 	[T_WORD:INCENSE:naatu]
-	[T_WORD:INCEST:lumma]
+
 	[T_WORD:INCH:agraru]
 	[T_WORD:INCIDENTAL:emku-nu]
 	[T_WORD:INCINERATE:zamma]
 	[T_WORD:INCONSIDERATE:issinu]
-	[T_WORD:INCONTINENT:nappu]
+
 	[T_WORD:INCONVENIENT:sadutu]
 	[T_WORD:INDIGNATION:sissaru]
 	[T_WORD:INFALLIBLE:khumudu]
@@ -1227,8 +1227,8 @@ language_MOROII
 	[T_WORD:NOSE:emkhtu]
 	[T_WORD:NOTCH:sinnaru]
 	[T_WORD:NOURISH:qanzuzu]
-	[T_WORD:NUDE:zalmu]
-	[T_WORD:NUDITY:anunu]
+
+
 	[T_WORD:NULL:rimmu]
 	[T_WORD:NUMBER:gapillu]
 	[T_WORD:NURTURE:iddu]
@@ -1278,7 +1278,7 @@ language_MOROII
 	[T_WORD:PALE:lakku]
 	[T_WORD:PALISADE:dimmeru]
 	[T_WORD:PALM:ekhagu]
-	[T_WORD:PANDER:hannu]
+
 	[T_WORD:PANT:emelu]
 	[T_WORD:PANTHER:eshala]
 	[T_WORD:PANTOMIME:buru]
@@ -1320,7 +1320,7 @@ language_MOROII
 	[T_WORD:PIMPLE:aku-nu]
 	[T_WORD:PINE:hadatu]
 	[T_WORD:PINNACLE:sabaru]
-	[T_WORD:PISS:nannu]
+
 	[T_WORD:PIT:qaddu]
 	[T_WORD:PITCH:shu]
 	[T_WORD:PLAGUE:akhanni]
@@ -1418,7 +1418,7 @@ language_MOROII
 	[T_WORD:RANDOM:zamitu]
 	[T_WORD:RANK:tessinu]
 	[T_WORD:RANSACK:nasulu]
-	[T_WORD:RAPE:rashatu]
+
 	[T_WORD:RAPID:taraqu]
 	[T_WORD:RAPTOR:essu]
 	[T_WORD:RARE:mar]
@@ -1647,7 +1647,7 @@ language_MOROII
 	[T_WORD:SLOW:annar]
 	[T_WORD:SLUDGE:asartu]
 	[T_WORD:SLUG:kashu]
-	[T_WORD:SLUT:pirgu]
+
 	[T_WORD:SLY:laglulu]
 	[T_WORD:SMALL:aruku]
 	[T_WORD:SMASH:tibbo]
@@ -1657,7 +1657,7 @@ language_MOROII
 	[T_WORD:SMOKE:eglutu]
 	[T_WORD:SMOOTH:lipputu]
 	[T_WORD:SMOULDER:pishu]
-	[T_WORD:SMUT:arrurru]
+
 	[T_WORD:SNACK:badanu]
 	[T_WORD:SNAIL:attillu]
 	[T_WORD:SNAKE:egamatu]
@@ -1696,7 +1696,7 @@ language_MOROII
 	[T_WORD:SPECK:ellu]
 	[T_WORD:SPEECHLESS:imaatu]
 	[T_WORD:SPELL:qabutu]
-	[T_WORD:SPEW:ititu]
+
 	[T_WORD:SPICE:kabuhu]
 	[T_WORD:SPIDER:rasanu]
 	[T_WORD:SPIDERY:mutal]
@@ -2005,7 +2005,7 @@ language_MOROII
 	[T_WORD:VISIONARY:haspu]
 	[T_WORD:VOICE:arapu]
 	[T_WORD:VOID:lagru]
-	[T_WORD:VOID_VERB:akku]
+
 	[T_WORD:VOLCANO:dishti]
 	[T_WORD:VOMIT:zamati]
 	[T_WORD:VULGAR:egiru]
@@ -2060,7 +2060,7 @@ language_MOROII
 	[T_WORD:WHISKY:aggatu]
 	[T_WORD:WHISPER:mushpu]
 	[T_WORD:WHITE:kakhatu]
-	[T_WORD:WHORE:innaptu]
+
 	[T_WORD:WICKED:lisharu]
 	[T_WORD:WIELD:agallu]
 	[T_WORD:WILD:bubbu]
