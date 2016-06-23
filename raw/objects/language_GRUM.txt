@@ -999,7 +999,7 @@ grum,ulthu,ugmat,duthgul,shu,dethgu,gebu,eduga,grothgul,soth,edu,ushe
 	[T_WORD:YEAR:ugugma]
 	[T_WORD:YEARLING:egmugul]
 	[T_WORD:YELLOW:sugmul]
-	[T_WORD:YOR:shogma]
+	[T_WORD:YORE:shogma]
 	[T_WORD:YOUNG:ubugmu]
 	[T_WORD:YOUTH:ushade]
 	[T_WORD:ZEAL:gragul]
@@ -2176,7 +2176,29 @@ grum,ulthu,ugmat,duthgul,shu,dethgu,gebu,eduga,grothgul,soth,edu,ushe
 	[T_WORD:HEAVY:ugoth]
 	[T_WORD:TRIAL:edugme]
 	[T_WORD:PRACTICE:ubathgum]
-
+	[T_WORD:END:soth]
+	[T_WORD:START:shol]
+	[T_WORD:BEGIN:redeshe]
+	[T_WORD:BIRTH:dashol]
+	[T_WORD:LEARN:dmagu]
+	[T_WORD:MISCHIEF:ushade]
+	[T_WORD:WISDOM:ebeshat]
+	[T_WORD:KNOW:deshum]
+	[T_WORD:KNOWLEDGE:gesheda]
+	[T_WORD:CRACK:odu]
+	[T_WORD:SHATTER:gesh]
+	[T_WORD:LEAP:degugum] see CRACK
+	[T_WORD:JUMP:ashobu]
+	[T_WORD:DIVE:edega]
+	[T_WORD:VAULT VERB:sauth]
+	[T_WORD:VAULT PLACE:gathge]
+	[T_WORD:TREASURY:gabul]
+	[T_WORD:BETRAY:esh]
+	[T_WORD:TREASON:eshem]
+	[T_WORD:REASON:ogudol]
+	[T_WORD:SQUAT:shu]
+	[T_WORD:FESTIVAL:dobet]
+	
 FLOWERY = -udu
 NATURE = -ude
 PRIMITIVE = dab-
