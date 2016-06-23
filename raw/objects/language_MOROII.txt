@@ -2103,7 +2103,7 @@ language_MOROII
 	[T_WORD:YEARLING:eslibbu]
 	[T_WORD:YELL:pille]
 	[T_WORD:YELLOW:suriku]
-	[T_WORD:YOR:gamushu]
+	[T_WORD:YORE:gamushu]
 	[T_WORD:YOUNG:ummittu]
 	[T_WORD:YOUTH:imamru]
 	[T_WORD:ZEAL:belishu]
