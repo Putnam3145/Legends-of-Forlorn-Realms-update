@@ -184,6 +184,7 @@ creature_void
 			[CDI:ADV_NAME:Conjure void aegis]
 			[CDI:BP_REQUIRED:BY_CATEGORY:HAND]
 			[CDI:TARGET:A:SELF_ONLY]
+			[CDI:USAGE_HINT:DEFEND]
 			[CDI:TARGET_RANGE:A:1]
    			[CDI:VERB:ward off incoming hexes:wards off incoming hexes:NA]
 			[CDI:MAX_TARGET_NUMBER:A:1]

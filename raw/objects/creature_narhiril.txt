@@ -1718,7 +1718,7 @@ creature_narhiril
 		[CDI:ADV_NAME:activate sentinel drones]
 		[CDI:TARGET:A]
 		[CDI:TARGET_RANGE:A:10]
-		[CDI:WAIT_PERIOD:50]
+		[CDI:WAIT_PERIOD:1000]
 		[CDI:MAX_TARGET_NUMBER:A:5]
 		[CDI:FREE_ACTION]
 	[ALL_ACTIVE]
